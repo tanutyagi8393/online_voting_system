@@ -16,12 +16,12 @@
 <br>
 <h4>About Developer</h4>
 <br>
-<img src="images/gaurav.jpg" align="center">
+<img src="images/tanvi.jpg" align="center">
 <br>
-Name : Gaurav Soni
+Name : Tanvi Tyagi
 <br>
-Contact number : 9588045342
+Contact number : 8410846083
 <br>
-Email : gsoni8158@gmail.com
+Email : tanutyagi8393@gmail.com
 </body>
 </html>
